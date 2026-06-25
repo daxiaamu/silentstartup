@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.agents/
+
+# Personal batch files may contain private URLs, tokens, or machine-specific commands.
+script/*.bat
